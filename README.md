@@ -8,7 +8,7 @@ A bridge between Base and blockchains outside the Ethereum ecosystem. Currently 
 >
 > The bridge is only live on testnet between Solana Devnet <> Base Sepolia. The code is a WIP and has not yet been audited. Do not use in production!!
 
-<!-- Badge row 1 - status -->
+<!-- Badge row 1 - status -->а
 
 [![GitHub contributors](https://img.shields.io/github/contributors/base/bridge)](https://github.com/base/bridge/graphs/contributors)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/base/bridge)](https://github.com/base/bridge/graphs/contributors)
